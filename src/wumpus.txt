@@ -1,0 +1,159 @@
+p_crit = 0.0
+7864320it [20:03, 6532.89it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 721.2069444444444
+Pits: 2, Average total reward: 465.5867857142857
+Pits: 3, Average total reward: 307.51173992673995
+Pits: 4, Average total reward: 215.52494505494505
+Pits: 5, Average total reward: 160.62110112110113
+Pits: 6, Average total reward: 126.50368381618381
+Pits: 7, Average total reward: 104.52852564102564
+Pits: 8, Average total reward: 89.90047656047656
+Pits: 9, Average total reward: 79.8769388944389
+Pits: 10, Average total reward: 72.87517482517482
+Pits: 11, Average total reward: 67.97172466422467
+Pits: 12, Average total reward: 64.6197619047619
+Pits: 13, Average total reward: 62.49825396825397
+Pits: 14, Average total reward: 61.4375
+Pits: 15, Average total reward: 61.4375
+Average total reward: 378.05399936292935
+
+p_crit = 0.21
+7864320it [20:26, 6410.53it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 733.3291666666667
+Pits: 2, Average total reward: 514.9730555555556
+Pits: 3, Average total reward: 305.0599633699634
+Pits: 4, Average total reward: 187.32782967032966
+Pits: 5, Average total reward: 136.2921731046731
+Pits: 6, Average total reward: 111.64614135864136
+Pits: 7, Average total reward: 97.72620176120176
+Pits: 8, Average total reward: 87.67195286195286
+Pits: 9, Average total reward: 79.44895937395937
+Pits: 10, Average total reward: 72.87517482517482
+Pits: 11, Average total reward: 67.97172466422467
+Pits: 12, Average total reward: 64.6197619047619
+Pits: 13, Average total reward: 62.49825396825397
+Pits: 14, Average total reward: 61.4375
+Pits: 15, Average total reward: 61.4375
+Average total reward: 381.90233694183854
+
+p_crit = 0.32
+7864320it [24:37, 5322.23it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 781.3613888888889
+Pits: 2, Average total reward: 575.8521031746031
+Pits: 3, Average total reward: 311.792847985348
+Pits: 4, Average total reward: 111.36923382173381
+Pits: 5, Average total reward: 11.374617049617049
+Pits: 6, Average total reward: -30.22551864801865
+Pits: 7, Average total reward: -39.13126068376069
+Pits: 8, Average total reward: -30.772890442890443
+Pits: 9, Average total reward: -13.86632117882118
+Pits: 10, Average total reward: 6.415963203463203
+Pits: 11, Average total reward: 26.355576923076924
+Pits: 12, Average total reward: 43.26627289377289
+Pits: 13, Average total reward: 55.29924603174603
+Pits: 14, Average total reward: 61.4375
+Pits: 15, Average total reward: 61.4375
+Average total reward: 368.3715642553629
+
+p_crit = 0.45
+7864320it [24:37, 5324.00it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 781.3613888888889
+Pits: 2, Average total reward: 577.9313492063492
+Pits: 3, Average total reward: 303.64209706959707
+Pits: 4, Average total reward: 96.75730463980464
+Pits: 5, Average total reward: -3.4854145854145853
+Pits: 6, Average total reward: -41.461331168831165
+Pits: 7, Average total reward: -45.826432918932916
+Pits: 8, Average total reward: -33.88482905982906
+Pits: 9, Average total reward: -14.907874625374625
+Pits: 10, Average total reward: 6.222531635031635
+Pits: 11, Average total reward: 26.355576923076924
+Pits: 12, Average total reward: 43.26627289377289
+Pits: 13, Average total reward: 55.29924603174603
+Pits: 14, Average total reward: 61.4375
+Pits: 15, Average total reward: 61.4375
+Average total reward: 361.9512377938029
+
+p_crit = 0.56
+7864320it [37:27, 3499.01it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 774.6469444444444
+Pits: 2, Average total reward: 527.9144841269841
+Pits: 3, Average total reward: 143.28682234432233
+Pits: 4, Average total reward: -206.8552380952381
+Pits: 5, Average total reward: -420.67497224997226
+Pits: 6, Average total reward: -544.066401931402
+Pits: 7, Average total reward: -619.837759000259
+Pits: 8, Average total reward: -669.6658903133903
+Pits: 9, Average total reward: -704.9884681984682
+Pits: 10, Average total reward: -732.1076701076701
+Pits: 11, Average total reward: -754.4951404151404
+Pits: 12, Average total reward: -773.5722802197802
+Pits: 13, Average total reward: -789.5581746031746
+Pits: 14, Average total reward: -802.5747222222222
+Pits: 15, Average total reward: -814.0625
+Average total reward: 177.11509844820813
+
+p_crit = 0.7
+7864320it [37:14, 3519.78it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 774.6469444444444
+Pits: 2, Average total reward: 527.9144841269841
+Pits: 3, Average total reward: 143.28682234432233
+Pits: 4, Average total reward: -206.8552380952381
+Pits: 5, Average total reward: -420.67497224997226
+Pits: 6, Average total reward: -544.066401931402
+Pits: 7, Average total reward: -619.837759000259
+Pits: 8, Average total reward: -669.6658903133903
+Pits: 9, Average total reward: -704.9884681984682
+Pits: 10, Average total reward: -732.1076701076701
+Pits: 11, Average total reward: -754.4951404151404
+Pits: 12, Average total reward: -773.5722802197802
+Pits: 13, Average total reward: -789.5581746031746
+Pits: 14, Average total reward: -802.5747222222222
+Pits: 15, Average total reward: -814.0625
+Average total reward: 177.11509844820813
+
+p_crit = 0.87
+7864320it [37:21, 3508.62it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 774.6469444444444
+Pits: 2, Average total reward: 527.9144841269841
+Pits: 3, Average total reward: 143.28682234432233
+Pits: 4, Average total reward: -206.8552380952381
+Pits: 5, Average total reward: -420.67497224997226
+Pits: 6, Average total reward: -544.066401931402
+Pits: 7, Average total reward: -619.837759000259
+Pits: 8, Average total reward: -669.6658903133903
+Pits: 9, Average total reward: -704.9884681984682
+Pits: 10, Average total reward: -732.1076701076701
+Pits: 11, Average total reward: -754.4951404151404
+Pits: 12, Average total reward: -773.5722802197802
+Pits: 13, Average total reward: -789.5581746031746
+Pits: 14, Average total reward: -802.5747222222222
+Pits: 15, Average total reward: -814.0625
+Average total reward: 177.11509844820813
+
+p_crit = 1.0
+7864320it [37:19, 3512.01it/s]
+Pits: 0, Average total reward: 972.3416666666667
+Pits: 1, Average total reward: 774.6469444444444
+Pits: 2, Average total reward: 527.9144841269841
+Pits: 3, Average total reward: 143.28682234432233
+Pits: 4, Average total reward: -206.8552380952381
+Pits: 5, Average total reward: -420.67497224997226
+Pits: 6, Average total reward: -544.066401931402
+Pits: 7, Average total reward: -619.837759000259
+Pits: 8, Average total reward: -669.6658903133903
+Pits: 9, Average total reward: -704.9884681984682
+Pits: 10, Average total reward: -732.1076701076701
+Pits: 11, Average total reward: -754.4951404151404
+Pits: 12, Average total reward: -773.5722802197802
+Pits: 13, Average total reward: -789.5581746031746
+Pits: 14, Average total reward: -802.5747222222222
+Pits: 15, Average total reward: -814.0625
+Average total reward: 177.11509844820813

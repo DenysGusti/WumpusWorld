@@ -10,7 +10,7 @@ class KnowledgeBase:
     def __init__(self, size: tuple[int, int]) -> None:
         self.stench: list[list[bool]] = [[False for _ in range(size[1])] for _ in range(size[0])]
         self.breeze: list[list[bool]] = [[False for _ in range(size[1])] for _ in range(size[0])]
-        # 1 - known, 0 - frontier, -1 - other
+        # 1 - known, 0 - frontier, -1 - other, 2 - wumpus but no arrow
         self.cell_status: list[list[int]] = [[-1 for _ in range(size[1])] for _ in range(size[0])]
         self.cell_status[0][0] = 0
         self.frontier: set[tuple[int, int]] = {(0, 0)}
